@@ -12,7 +12,7 @@ You can access the notebook here: [![Open In Colab](https://colab.research.googl
 
 ## Acknowledgments
 
-- We would like to thank the [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) team for developing an excellent and open source suite.
+- We would like to thank the [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) team for developing an excellent and open source code.
 - Credit to [David Koes](https://github.com/dkoes) for his awesome [py3Dmol](https://3dmol.csb.pitt.edu/) plugin.
 
 
