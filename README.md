@@ -1,5 +1,5 @@
 # tRMSF
-Code to perform RMSF in function of time in an easy and accessible way. The code is straightforward, just submit your trajectory and topology files and you are ready to go. Options to plot 2D RMSF and display 3D structure with RMSF values are also available. This code was only possible because of [MDAnalysis](https://github.com/MDAnalysis/mdanalysis), thank you for all developers.
+Code to perform root mean square fluctuation (RMSF) in function of time in an easy and accessible way. The code is straightforward, just submit your trajectory and topology files and you are ready to go. Options to plot 2D RMSF and display 3D structure with RMSF values are also available. This code was only possible because of [MDAnalysis](https://github.com/MDAnalysis/mdanalysis), thank you for all developers.
 
 You can access the notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/tRMSF/blob/main/tRMSF.ipynb)
 
